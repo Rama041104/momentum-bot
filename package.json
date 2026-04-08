@@ -1,0 +1,15 @@
+{
+  "name": "momentum-candle-bot",
+  "version": "1.0.0",
+  "description": "Momentum Candle detector XAUUSDT → Discord",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
